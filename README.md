@@ -7,4 +7,4 @@ Modification to a starter code that enables employees to generate random passwor
 [Try out my website now](https://kraemz303.github.io/JS-Random-Password-Generator.V2/)
 
 ## Screenshot
-![Screenshot of my password generator](Challenge-03 JavaScript/assets/images/passwordGenerator_screenshot.png)
+![Screenshot of my password generator](./assets/images/passwordGenerator_screenshot.png)
